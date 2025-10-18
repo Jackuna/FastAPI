@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-# Git Ignore directories and files
+# Git Ignore directories and files for untracked FastAPI projects and Python environments
 .fastapivenv/
 fastapivenv/
 
