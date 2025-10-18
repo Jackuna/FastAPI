@@ -1,0 +1,9 @@
+# FastAPI 400 HTTP Status codes and it's related information
+
+## 400 - Bad Request - Cannot process request due to client errors, commonly used for invalid request type.
+
+## 401 - Unauthorized
+
+## 404 - Not Found
+
+## 422 - Unprocessable Entity - Semantic errors in Client Request
